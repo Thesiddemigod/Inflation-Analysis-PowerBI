@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/dashboard_page1.png" alt="Global Inflation Dashboard Preview" width="600"/>
   <h1>🌍 Global Inflation Analysis – Power BI Dashboard (1980–2024)</h1>
   <p><i>Visualizing macroeconomic inflation trends across countries and regions with interactive Power BI storytelling.</i></p>
 
@@ -35,30 +34,6 @@ Users can explore:
 - 🍩 **Donut Chart**: Top 3 inflation contributors (latest year)
 - 📋 **Narrative Summary**: Smart multi-line DAX-based insight card
 - 🖥 **Responsive Design**: Clean grid alignment, job-ready layout
-
----
-
-## 📁 Repository Structure
-
-Inflation-Analysis-PowerBI/
-│
-├── InflationAnalysis_SiddharthChauhan.pbix # Main Power BI file
-│
-├── datasets/
-│ ├── global_inflation_data.csv
-│ └── continents.csv
-│
-├── assets/
-│ ├── dashboard_page1.png
-│ ├── report_page2.png
-│ └── preview.gif # (optional)
-│
-├── docs/
-│ ├── InflationAnalysis_SiddharthChauhan.pdf # Exported PDF
-│ └── ProjectDocumentation.md # Full project build steps
-│
-└── README.md
-
 
 ---
 
