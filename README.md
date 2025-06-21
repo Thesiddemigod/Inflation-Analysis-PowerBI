@@ -1,39 +1,67 @@
 <div align="center">
-  <h1>🌍 Global Inflation Analysis – Power BI Dashboard (1980–2024)</h1>
-  <p><i>Visualizing macroeconomic inflation trends across countries and regions with interactive Power BI storytelling.</i></p>
 
-  <div>
-    <img src="https://img.shields.io/badge/-Power_BI-black?style=for-the-badge&logo=powerbi&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/-DAX-black?style=for-the-badge&logoColor=white&color=0D0D0D" />
-    <img src="https://img.shields.io/badge/-CSV_Data-black?style=for-the-badge&logoColor=white&color=247BA0" />
-    <img src="https://img.shields.io/badge/-Portfolio_Project-black?style=for-the-badge&logoColor=white&color=5C5470" />
-  </div>
+<h1>🌍 Global Inflation Analysis – Power BI Dashboard (1980–2024)</h1>
+<p><i>An interactive visual story of global inflation dynamics, built with DAX, precision, and purpose.</i></p>
 
-  <p>Created by Siddharth Chauhan | CSE '26 | Data Analyst in Progress</p>
+<div>
+  <img src="https://img.shields.io/badge/-Power_BI-black?style=for-the-badge&logo=powerbi&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-DAX-black?style=for-the-badge&logoColor=white&color=0D0D0D" />
+  <img src="https://img.shields.io/badge/-Power_Query-black?style=for-the-badge&logoColor=white&color=8FBC8F" />
+  <img src="https://img.shields.io/badge/-Data_Analytics-black?style=for-the-badge&logoColor=white&color=2E8BC0" />
+  <img src="https://img.shields.io/badge/-Portfolio_Project-black?style=for-the-badge&logoColor=white&color=5C5470" />
+</div>
+
+<p><b>By Siddharth Chauhan | CSE ‘26 | Data Analyst in Progress</b></p>
+
 </div>
 
 ---
 
 ## 📘 Project Overview
 
-This Power BI dashboard analyzes global inflation patterns across countries and regions from **1980 to 2024**. Originally built during a virtual internship with **SmartBridge**, this project is restructured as a **portfolio-quality data analytics case study** with refined DAX, design, and insight communication.
+This Power BI dashboard project analyzes global inflation from **1980 to 2024** across countries and regions.
 
-Users can explore:
-- Year-wise inflation rate shifts
-- Regional distribution of inflation
-- Top inflation-contributing countries
-- Inflation category segmentation (High / Moderate / Low)
+I originally developed this during a virtual internship with **SmartBridge**, but I rebuilt and redesigned it entirely as a **professional case project** — with refined DAX, layout, responsiveness, and storytelling optimized for real-world business scenarios.
+
+Through this dashboard, I aim to answer:  
+> *Where is inflation rising fastest? Which regions contribute most? What trends should decision-makers watch?*
 
 ---
 
-## 🧠 Key Highlights
+## 💡 Key Highlights
 
-- 🔢 **Dynamic DAX KPIs**: Avg, Max, Δ Inflation Rate by Country
-- 📆 **Interactive Filtering**: Country slicers, year-specific views
-- 🗺 **Region Map**: Geographic visualization by continent
-- 🍩 **Donut Chart**: Top 3 inflation contributors (latest year)
-- 📋 **Narrative Summary**: Smart multi-line DAX-based insight card
-- 🖥 **Responsive Design**: Clean grid alignment, job-ready layout
+- 🔢 **Dynamic KPIs** – Average, maximum, and YoY inflation change
+- 🎯 **Country Filter** – Focus insights per country
+- 📈 **Time Series & Distribution** – Line, column, and scatter plots
+- 🗺 **Region Map** – Global breakdown by continent
+- 🍩 **Top 3 Donut** – Most inflation-heavy countries
+- 🧠 **Smart Narrative** – Auto-generated DAX-driven bullet summary
+- 📐 **Pixel-Perfect Design** – Executive-grade layout and color palette
+
+---
+
+## 📁 File Structure
+
+```bash
+Inflation-Analysis-PowerBI/
+│
+├── InflationAnalysis_SiddharthChauhan.pbix        # Power BI project file
+│
+├── datasets/
+│   ├── global_inflation_data.csv
+│   └── continents.csv
+│
+├── assets/
+│   ├── dashboard_page1.png
+│   ├── report_page2.png
+│   └── preview.gif                                 # (optional)
+│
+├── docs/
+│   ├── InflationAnalysis_SiddharthChauhan.pdf      # Final report (PDF)
+│   └── ProjectDocumentation.md                     # Step-by-step explanation
+│
+├── README.md                                       # Project overview and instructions
+└── LICENSE                                         # MIT License
 
 ---
 
