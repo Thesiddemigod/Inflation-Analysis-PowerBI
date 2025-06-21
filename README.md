@@ -61,7 +61,7 @@ Inflation-Analysis-PowerBI/
 ├── README.md                                       # Project overview and instructions
 └── LICENSE                                         # MIT License
 
----
+```
 ---
 
 ## 🖥️ Dashboard Pages
