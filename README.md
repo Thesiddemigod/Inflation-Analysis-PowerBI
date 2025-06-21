@@ -56,7 +56,7 @@ Inflation-Analysis-PowerBI/
 │
 ├── docs/
 │   ├── InflationAnalysis_SiddharthChauhan.pdf      # Final report (PDF)
-│   └── ProjectDocumentation.md                     # Step-by-step explanation
+│   └── ProjectDocumentation.pdf                    # Step-by-step explanation
 │
 ├── README.md                                       # Project overview and instructions
 └── LICENSE                                         # MIT License
@@ -106,7 +106,7 @@ Inflation-Analysis-PowerBI/
 
 ## 🧾 Documentation
 
-- 🔍 **Project Steps & Decisions**: [`ProjectDocumentation.md`](docs/ProjectDocumentation.pdf)  
+- 🔍 **Project Steps & Decisions**: [`ProjectDocumentation.pdf`](docs/ProjectDocumentation.pdf)  
 - 📝 **Exported Report (PDF)**: [`InflationAnalysis_SiddharthChauhan.pdf`](docs/InflationAnalysis_SiddharthChauhan.pdf)
 
 ---
