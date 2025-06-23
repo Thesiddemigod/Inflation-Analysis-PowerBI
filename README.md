@@ -21,7 +21,7 @@
 
 This is my Power BI dashboard project focused on analyzing global inflation from **1980 to 2024** across countries and regions.
 
-I originally developed it as part of a virtual internship with **SmartBridge**, but I’ve since rebuilt it from scratch to reflect what I’d deliver in a **real analytics job** — complete with optimized visuals, DAX-driven KPIs, region-based insights, and storytelling.
+I originally developed it as part of a virtual internship with **TheSmartBridge**, but I’ve since rebuilt it from scratch to reflect what I’d deliver in a **real analytics job** — complete with optimized visuals, DAX-driven KPIs, region-based insights, and storytelling.
 
 Through this dashboard, I aim to answer:  
 > *Where is inflation rising fastest? Which regions contribute most? What do the trends reveal globally?*
@@ -52,7 +52,9 @@ Inflation-Analysis-PowerBI/
 ├── assets/
 │   ├── dashboard_page1.png
 │   ├── report_page2.png
-│   └── preview.gif                                 # (optional)
+│   ├── thumbnail_global_inflation_dashboard.png
+│   ├── thumbnail_global_inflation_dashboard_v2.png
+│   └── InflationAnalysis_Cover_SiddharthChauhan.png
 │
 ├── docs/
 │   ├── InflationAnalysis_SiddharthChauhan.pdf      # Final report (PDF)
@@ -99,7 +101,7 @@ Inflation-Analysis-PowerBI/
 ## 🎥 Project Demonstration
 
 > ▶ **[Click here to watch the full walkthrough]()**  
-> <img src="assets/preview.gif" width="400"/>
+> <img src="assets/" width="400"/>
 
 ---
 ---
