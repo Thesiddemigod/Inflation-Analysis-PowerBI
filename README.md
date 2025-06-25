@@ -137,7 +137,7 @@ Inflation-Analysis-PowerBI/
 
 ## 🎥 Project Demonstration
 
->▶ **Click the image below to watch the full walkthrough**
+>▶ **Click below to watch the full walkthrough**
 >
 > <a href="https://drive.google.com/file/d/1nVgGonZak2qYz1hfpl8U4IKuwlz2hioa/view?usp=sharing">
 >   <img src="assets/preview.png" width="400" alt="Project Video Demo Thumbnail"/>
