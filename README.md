@@ -59,12 +59,13 @@ Inflation-Analysis-PowerBI/
 │   ├── inflation_summary1.png
 │   ├── inflation_summary2.png
 │   ├── inflation_summary3.png
-│   ├──
-│   ├──
-│   ├──
-│   ├──
-│   ├──
+│   ├── jira_project_planning_template.png
+│   ├── kpi_cards_average_maximum_region_count.png
+│   ├── line_chart_sum_of_inflation_rate_over_years.png
+│   ├── pie_chart_category_share_breakdown.png
+│   ├── preview.png
 │   ├── report_page2.png
+│   ├── scatter_plot_inflation_vs_adjusted_inflation.png
 │   ├── thumbnail_global_inflation_dashboard.png
 │   └── thumbnail_global_inflation_dashboard_v2.png
 │
@@ -73,8 +74,25 @@ Inflation-Analysis-PowerBI/
 │   └── global_inflation_data.csv
 │
 ├── docs/
-│   ├── 1. Project Initialization and Planning Phase/
-│   │   ├──
+│   ├── 01_project_initialization_and_planning_phase/
+│   │   ├── DefineProblemStatements_Template.pdf
+│   │   ├── ProjectPlanning_Template.pdf
+│   │   └── ProjectProposal_ProposedSolution_Template.pdf
+│   │
+│   ├── 02_data_collection_and_preprocessing_phase/
+│   │   ├── DataExplorationAndPreprocessing_Template.pdf
+│   │   ├── DataQualityReport_Template.pdf
+│   │   └── RawDataSourcesIdentificationReport_Template.pdf
+│   │
+│   ├── 03_data_visualization/
+│   │   └── BusinessQuestionAndVisualisationReport_Template.pdf
+│   │
+│   ├── 04_dashboard/
+│   │   └── DashboardDesign_Template.pdf
+│   │
+│   ├── 05_report/
+│   │   └── ReportDesign_Template.pdf
+│   │
 │   ├── InflationAnalysis_SiddharthChauhan.pdf      # Final report (PDF)
 │   └── ProjectDocumentation.pdf                    # Step-by-step explanation
 │
