@@ -43,22 +43,42 @@ Through this dashboard, I aim to answer:
 ```bash
 Inflation-Analysis-PowerBI/
 │
-├── InflationAnalysis_SiddharthChauhan.pbix        # Power BI project file
-│
-├── datasets/
-│   ├── global_inflation_data.csv
-│   └── continents.csv
-│
 ├── assets/
+│   ├── adjusted_inflation_rate.png
+│   ├── bar_chart_high_vs_low_sum_of_inflation.png
+│   ├── column_chart_annual_sum_of_inflation_rate.png
+│   ├── customer_problem_statement _template1.png
+│   ├── customer_problem_statement _template2.png
 │   ├── dashboard_page1.png
+│   ├── donut_chart_top_3_countries_latest_year.png
+│   ├── filled_map_chart_region_country_mapping.png
+│   ├── filter_country_germany.png
+│   ├── filter_country_india.png
+│   ├── inflation_rate_category.png
+│   ├── inflation_rate_change.png
+│   ├── inflation_summary1.png
+│   ├── inflation_summary2.png
+│   ├── inflation_summary3.png
+│   ├──
+│   ├──
+│   ├──
+│   ├──
+│   ├──
 │   ├── report_page2.png
 │   ├── thumbnail_global_inflation_dashboard.png
-│   ├── thumbnail_global_inflation_dashboard_v2.png
-│   └── InflationAnalysis_Cover_SiddharthChauhan.png
+│   └── thumbnail_global_inflation_dashboard_v2.png
+│
+├── datasets/
+│   ├── continents.csv
+│   └── global_inflation_data.csv
 │
 ├── docs/
+│   ├── 1. Project Initialization and Planning Phase/
+│   │   ├──
 │   ├── InflationAnalysis_SiddharthChauhan.pdf      # Final report (PDF)
 │   └── ProjectDocumentation.pdf                    # Step-by-step explanation
+│
+├── InflationAnalysis_SiddharthChauhan.pbix        # Power BI project file
 │
 ├── README.md                                       # Project overview and instructions
 └── LICENSE                                         # MIT License
@@ -100,8 +120,8 @@ Inflation-Analysis-PowerBI/
 
 ## 🎥 Project Demonstration
 
-> ▶ **[Click here to watch the full walkthrough]()**  
-> <img src="assets/" width="400"/>
+> ▶ **[Click here to watch the full walkthrough](https://drive.google.com/file/d/1nVgGonZak2qYz1hfpl8U4IKuwlz2hioa/view?usp=sharing)**  
+> <img src="assets/preview.png" width="400"/>
 
 ---
 ---
