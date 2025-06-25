@@ -21,7 +21,7 @@
 
 This is my Power BI dashboard project focused on analyzing global inflation from **1980 to 2024** across countries and regions.
 
-I originally developed it as part of a virtual internship with **TheSmartBridge**, but I’ve since rebuilt it from scratch to reflect what I’d deliver in a **real analytics job** — complete with optimized visuals, DAX-driven KPIs, region-based insights, and storytelling.
+I originally developed it as part of a virtual internship with **TheSmartBridge**, but I’ve since rebuilt it from scratch to reflect what I’d deliver in a **real-world data analytics role** — complete with optimized visuals, DAX-driven KPIs, region-based insights, and storytelling.
 
 Through this dashboard, I aim to answer:  
 > *Where is inflation rising fastest? Which regions contribute most? What do the trends reveal globally?*
@@ -42,13 +42,13 @@ Through this dashboard, I aim to answer:
 
 ```bash
 Inflation-Analysis-PowerBI/
-│
-├── assets/
+|
+├── assets/                      # All visuals, screenshots, and thumbnails
 │   ├── adjusted_inflation_rate.png
 │   ├── bar_chart_high_vs_low_sum_of_inflation.png
 │   ├── column_chart_annual_sum_of_inflation_rate.png
-│   ├── customer_problem_statement _template1.png
-│   ├── customer_problem_statement _template2.png
+│   ├── customer_problem_statement_template1.png
+│   ├── customer_problem_statement_template2.png
 │   ├── dashboard_page1.png
 │   ├── donut_chart_top_3_countries_latest_year.png
 │   ├── filled_map_chart_region_country_mapping.png
@@ -69,11 +69,11 @@ Inflation-Analysis-PowerBI/
 │   ├── thumbnail_global_inflation_dashboard.png
 │   └── thumbnail_global_inflation_dashboard_v2.png
 │
-├── datasets/
+├── datasets/                   # Data files used in the project
 │   ├── continents.csv
 │   └── global_inflation_data.csv
 │
-├── docs/
+├── docs/                       # Project documentation templates
 │   ├── 01_project_initialization_and_planning_phase/
 │   │   ├── DefineProblemStatements_Template.pdf
 │   │   ├── ProjectPlanning_Template.pdf
@@ -93,11 +93,10 @@ Inflation-Analysis-PowerBI/
 │   ├── 05_report/
 │   │   └── ReportDesign_Template.pdf
 │   │
-│   ├── InflationAnalysis_SiddharthChauhan.pdf      # Final report (PDF)
-│   └── ProjectDocumentation.pdf                    # Step-by-step explanation
+│   ├── InflationAnalysis_SiddharthChauhan.pdf
+│   └── ProjectDocumentation.pdf
 │
 ├── InflationAnalysis_SiddharthChauhan.pbix        # Power BI project file
-│
 ├── README.md                                       # Project overview and instructions
 └── LICENSE                                         # MIT License
 
@@ -138,8 +137,9 @@ Inflation-Analysis-PowerBI/
 
 ## 🎥 Project Demonstration
 
-> ▶ **[Click here to watch the full walkthrough](https://drive.google.com/file/d/1nVgGonZak2qYz1hfpl8U4IKuwlz2hioa/view?usp=sharing)**  
-> <img src="assets/preview.png" width="400"/>
+> <a href="https://drive.google.com/file/d/1nVgGonZak2qYz1hfpl8U4IKuwlz2hioa/view?usp=sharing">
+>   <img src="assets/preview.png" width="400" alt="Project Video Demo Thumbnail"/>
+> </a>
 
 ---
 ---
@@ -153,7 +153,7 @@ Inflation-Analysis-PowerBI/
 
 ## 👤 About Me
 
-Hi, I’m **Siddharth Chauhan** – an aspiring data analyst who believes data deserves design, and dashboards should tell stories. I'm currently pursuing B.Tech in Computer Science (Class of ‘26) and building real-world portfolio projects in Power BI, Excel, Python, and SQL.
+Hi, I’m **Siddharth Chauhan** – a data analyst-in-training who believes data deserves design, and dashboards should tell stories. I'm currently pursuing B.Tech in Computer Science (Class of ‘26) and building real-world portfolio projects in Power BI, Excel, Python, and SQL.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thesiddemigod/)  
 📩 Always open to internships, remote projects, and data storytelling roles.
