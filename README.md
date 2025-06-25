@@ -148,6 +148,7 @@ Inflation-Analysis-PowerBI/
 
 - 🔍 **Project Steps & Decisions**: [`ProjectDocumentation.pdf`](docs/ProjectDocumentation.pdf)  
 - 📝 **Exported Report (PDF)**: [`InflationAnalysis_SiddharthChauhan.pdf`](docs/InflationAnalysis_SiddharthChauhan.pdf)
+- 📅 **All Internship Templates** (Phase-wise): see `/docs` subfolders for detailed PDF templates across 5 modules.
 
 ---
 
