@@ -42,7 +42,7 @@ Through this dashboard, I aim to answer:
 
 ```bash
 Inflation-Analysis-PowerBI/
-|
+│ 
 ├── assets/                      # All visuals, screenshots, and thumbnails
 │   ├── adjusted_inflation_rate.png
 │   ├── bar_chart_high_vs_low_sum_of_inflation.png
